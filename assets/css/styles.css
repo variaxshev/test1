@@ -1,0 +1,158 @@
+header {
+  margin: 20px 0 35px;
+}
+
+header h1 {
+  font-weight: bold;
+  margin-bottom: 12px;
+  font-size: 28px;
+  margin-top: 30px;
+}
+
+.content {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 30px 50px;
+  background-color: Gainsboro;
+}
+
+.content h2 {
+  font-size: 18px;
+  font-weight: bold;
+  margin: 40px 0 30px;
+}
+
+.content figure {
+  display: block;
+  text-align: center;
+  margin: 20px 0;
+}
+
+.content figcaption {
+  font-size: 12px;
+  padding-top: 10px;
+}
+
+.content div.dropdown {
+  margin: 20px auto;
+  width: 130px;
+}
+
+.content blockquote p {
+  font-size: 14px;
+  padding: 15px 20px;
+  border-left: 3px solid #edecf2;
+  background-color: #f9f9fb;
+}
+
+.inline {
+  display: inline-block;
+}
+
+.vertical-mid {
+  vertical-align: middle;
+}
+
+.title {
+  margin-left: 13%;
+  font-size: 20px;
+}
+
+.content.menu {
+  height: 335px;
+  text-align: center;
+}
+
+.content.login {
+  height: 255px;
+}
+
+.content.download {
+  height: 175px;
+}
+
+.content.register {
+  height: 2840px;
+  max-width: 990px;
+}
+
+.content.upload {
+  height: 265px;
+}
+
+.vertical-hr {
+  position: absolute;
+  margin-top: 1rem;
+  margin-bottom: 1rem;
+  border: 0;
+  border-right: 3px solid rgba(0,0,0,.0);
+  box-sizing: content-box;
+  height: 145px;
+  overflow: visible;
+  width: 0;
+  left: 360px;
+  top: 118px;
+}
+
+.content.showlist {
+  height: 240px;
+}
+
+.multipleRowsTitle {
+  width: 310px;
+}
+
+hr.defaultLine {
+  background-color: white;
+  border-top: 3px solid rgba(0,0,0,.0);
+}
+
+.labelTitle {
+  font-weight: bold;
+  margin-bottom: 0px;
+}
+
+.detail {
+  padding-left: 20px;
+  padding-top: 22px;
+}
+
+.detailFormat {
+  padding-top: 15px;
+  padding-left: 10px;
+}
+
+.blockSize {
+  width: 290px;
+}
+
+.detail {
+}
+
+.spanDetail {
+  margin-left: 5px;
+  font-size: 13px;
+  display: inline-block;
+}
+
+.blockLogoGroup {
+  height: 110px;
+  width: 580px;
+  vertical-align: text-top;
+  padding: 0px;
+  margin: 0px 5px;
+}
+
+.blockLogo {
+  width: 45px;
+  height: 45px;
+  margin: 5px;
+  background-size: cover;
+}
+
+.textInput {
+  width: 580px;
+  height: 40px;
+  border-radius: 5px;
+}
+
